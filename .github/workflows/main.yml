@@ -8,7 +8,7 @@ on:
         required: true
         default: 'suhartono'
       agent_description:
-        description: 'suhartoni'
+        description: 'suhartono'
         required: true
         default: 'suhartono AI Agent'
 
