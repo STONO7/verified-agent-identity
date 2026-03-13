@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'suhartono'
         required: true
-        default: 'suhartonk'
+        default: 'suhartono'
       agent_description:
         description: 'suhartoni'
         required: true
